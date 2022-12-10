@@ -1,0 +1,7 @@
+name: StackItems
+version: '${project.version}'
+main: me.mohsumzadah.stackitems.StackItems
+api-version: 1.13
+website: www.twitter.com/mohsumzadah
+commands:
+  itemstack:

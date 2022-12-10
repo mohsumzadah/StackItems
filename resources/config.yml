@@ -1,0 +1,7 @@
+ITEM-REMOVE-SECOND: 300
+ITEM-HOLO-SHOW: true
+
+ITEM-NAME: "&f%name%"
+ITEM-AMOUNT: "&b(x%amount%)"
+ITEM-TIME: "&f%time%"
+ITEM-SEPARATOR: "&f/"
